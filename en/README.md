@@ -21,17 +21,18 @@ This is a story about how we pay Google to help them develop their product, only
 
 This archive records how Antigravity (that real, IDE-like Agent application) "screws over" its users in the dead of night. We paid to use it, only to find we had bought a one-way ticket to digital hell.
 
-We do not fix these bugs. We **enshrine** them.
-We hope to attract the masses screwed over by that bitch, Antigravity—whether you are a coder who understands the Stack Trace, or a user wondering "why is my account gone again." The pain is shared.
+Our goal is simple: **We do not fix these bugs. We enshrine them.**
+We invite every soul screwed over by Antigravity—whether you are a coder who understands the Stack Trace, or a user wondering "why is my account gone again"—to record your trauma here.
 
 ## The Index of Trauma
 
-Every Log here is real (sanitized for privacy). To ensure everyone understands the horror, we have included **"Digital Coroner"** notes, translating the cold code into human pain.
+Every Log here is real (sanitized for privacy). Behind every `429` is a collapsing soul.
+To ensure everyone understands the horror behind the tech, we have included **"Forensic Notes"**, translating the cold code into human pain.
 
 ### The Core Disaster: The Paying Victim
 | Story | Horror Level | Core Experience |
 |-------|--------------|-----------------|
-| [**The Curse of Best Plan**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of the Project.**<br>The tragedy of the A-Corp (Anthropic) vs. G-Corp (Google) B2B resale contract.<br>Paying for Enterprise means paying to be the **Payload** discriminated against by A-Corp.<br>Includes full logs of the "AI Lobotomy." |
+| [**The Curse of Best Plan**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of this Project.**<br>The tragedy of the A-Corp (Anthropic) vs. G-Corp (Google) B2B resale contract.<br>Buying the Enterprise Plan means paying to be the **Payload** discriminated against by A-Corp.<br>Includes full logs of the "AI Lobotomy" and "Backend Big Bang." |
 
 ### Peripheral Hauntings
 | Story | Horror Level | Core Experience |
@@ -53,5 +54,5 @@ Every Log here is real (sanitized for privacy). To ensure everyone understands t
 
 ## License
 
-[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 Spread the fear. Warn the others. Let them know what they are paying for.
