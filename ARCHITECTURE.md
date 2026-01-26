@@ -66,6 +66,7 @@
 - 它還活著.md 💀💀💀
 - 看不見的配額.md 💀💀
 - 帳號輪詢的詛咒.md 💀💀💀💀💀
+- Best_Plan的詛咒.md 💀💀💀💀💀💀
 - README.md
 
 ### Progress Updates
@@ -77,22 +78,12 @@
 
 ```
 Antigravity Suck Story/
-├── README.md              # 專案首頁（用戶原話）
-├── ARCHITECTURE.md        # 本文件（AI 執行過程）
-├── stories/               # 鬼故事集
+├── README.md              # 專案首頁（Saki 的詛咒與宣言）
+├── ARCHITECTURE.md        # 本文件（AI 的執行過程記錄）
+├── stories/               # 數位創傷檔案
 │   ├── 它還活著.md       # 殭屍進程的故事
 │   ├── 看不見的配額.md   # 幻影 DOM 的故事
-│   └── 帳號輪詢的詛咒.md # 封號的故事
+│   ├── 帳號輪詢的詛咒.md # 封號的故事
+│   └── Best_Plan的詛咒.md # 核心故事：付費受害者的噩夢
 └── 事件記錄_2026-01-26.md # 原始事件記錄
 ```
-
----
-
-## 貢獻指南
-
-### 如何新增鬼故事
-
-1. 在 `stories/` 目錄創建新的 `.md` 文件
-2. 使用四幕結構
-3. 添加恐怖程度評級（💀 數量）
-4. 更新 README.md 的故事索引
