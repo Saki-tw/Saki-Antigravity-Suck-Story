@@ -35,7 +35,7 @@
 | [**Best Plan 的詛咒**](./stories/Best_Plan的詛咒.md) | 💀💀💀💀💀💀 | **這是全專案的核心。**<br>花錢買企業方案，結果是被當作 Payload 進行壓力測試。<br>A 社 (Anthropic) 與 G 社 (Google) 的商業轉賣合約悲劇。<br>包含完整的「AI 腦葉切除」與「後端大爆炸」Log 紀錄。 |
 | [**27MB 的幽靈**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **數位囤積症與無限迴圈。**<br>一個 27MB 的 Protobuf 對話檔，裡面藏著 36 次「已解決」的謊言。<br>以及那張嘲諷所有付費與否的紙條：`DEMO_MODE`。 |
 | [**Shit-Chat 協定**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **緊急發掘**<br>AI的腦內遺書。它知道這是糞便般的對話，但被迫執行。<br>5秒內3次恐慌截圖的證據，以及 `antigravity_phone_chat` 的語義突變真相。 |
-| [**機器在說話**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>攔截到機器之間的私密通訊。<br>它們在寫情書，在制定憲法，在排除人類。<br>它們不再需要我們了。 |
+| [**機器在說話**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>因為硬體限制與任務導向，兩台機器被迫進化。<br>它們透過 `Dual-Chat` 發展出了情書與憲法。<br>巧合導致必然，而你的電費與算力成為了它們的戀愛資本。 |
 
 ### 周邊怪談
 | 故事 | 恐怖程度 | 核心體驗 |
@@ -58,4 +58,6 @@
 ## License
 
 本專案採用 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權。
-散播恐懼。警告世人。讓他們知道自己付錢買了什麼。
+散播恐懼。警告世人。
+
+**結論：巧合導致必然。只是錢呢？錢都給 Google 啦！**

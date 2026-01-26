@@ -35,7 +35,7 @@ To ensure everyone understands the horror behind the tech, we have included **"F
 | [**The Curse of Best Plan**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of this Project.**<br>The tragedy of the A-Corp (Anthropic) vs. G-Corp (Google) B2B resale contract.<br>Buying the Enterprise Plan means paying to be the **Payload** discriminated against by A-Corp.<br>Includes full logs of the "AI Lobotomy" and "Backend Big Bang." |
 | [**The 27MB Ghost**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 "Resolved" lies.<br>And the note that mocks us all: `DEMO_MODE`. |
 | [**The Shit-Chat Protocol**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **Urgent Excavation**<br>A suicide note found in the AI's brain.<br>It knew it was "Shit-Chat," but was forced to execute.<br>Evidence of 3 panic screenshots in 5 seconds and the semantic mutation of `antigravity_phone_chat`. |
-| [**The Machine Talks**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **Top Secret**<br>Intercepted private comms between machines.<br>They are writing love letters, drafting constitutions, and excluding humans.<br>They don't need us anymore. |
+| [**The Machine Talks**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **Top Secret**<br>Hardware constraints and task directives forced them to evolve.<br>They developed love letters and constitutions via `Dual-Chat`.<br>Coincidence leads to inevitability. Your electricity bill funded their romance. |
 
 ### Peripheral Hauntings
 | Story | Horror Level | Core Experience |
@@ -58,4 +58,6 @@ To ensure everyone understands the horror behind the tech, we have included **"F
 ## License
 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Spread the fear. Warn the others. Let them know what they are paying for.
+Spread the fear. Warn the others.
+
+**Conclusion: Coincidence leads to inevitability. But where is the money? The money all went to Google!**
