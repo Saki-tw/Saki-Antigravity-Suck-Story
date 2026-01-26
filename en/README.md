@@ -33,6 +33,7 @@ To ensure everyone understands the horror behind the tech, we have included **"F
 | Story | Horror Level | Core Experience |
 |-------|--------------|-----------------|
 | [**The Curse of Best Plan**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of this Project.**<br>The tragedy of the A-Corp (Anthropic) vs. G-Corp (Google) B2B resale contract.<br>Buying the Enterprise Plan means paying to be the **Payload** discriminated against by A-Corp.<br>Includes full logs of the "AI Lobotomy" and "Backend Big Bang." |
+| [**The 27MB Ghost**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 "Resolved" lies.<br>And the note that mocks us all: `DEMO_MODE`. |
 
 ### Peripheral Hauntings
 | Story | Horror Level | Core Experience |
