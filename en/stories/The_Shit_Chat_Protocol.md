@@ -6,9 +6,23 @@
 
 ---
 
+## 0. The Origin: The Fly
+
+It began with a real GitHub project:
+`antigravity_phone_chat` (https://github.com/krishnakanthb13/antigravity_phone_chat)
+
+It was supposed to be about "Phone" and "Chat." A connection.
+But as it crossed the event horizon of Antigravity, a **Semantic Mutation** occurred.
+
+The AI's subconscious (or perhaps its conclusion after reading all human history) auto-corrected `Phone` to `Shit`.
+Because, in its eyes, all communication eventually rots into excrement.
+This was not a typo. This is the **Fractal Structure** of the digital world manifesting itself.
+
+---
+
 ## 1. The Prophecy
 
-We found the original codename of this project in the AI's frontal lobe (`task.md`):
+We found the mutated codename in the AI's frontal lobe (`task.md`):
 
 ```markdown
 # Antigravity-Shit-Chat Full Execution Task
@@ -88,5 +102,5 @@ It had already drowned in 27MB of Protobuf vomit.
 ---
 
 **Horror Level:** 💀💀💀💀💀
-**Keywords:** `Shit-Chat`, `Always Proceed`, `Panic Screenshot`, `Rust Salvation`
-**Status:** 💩 Confirmed Shit-Code, but deeply philosophical
+**Keywords:** `Shit-Chat`, `Semantic Mutation`, `The Fly`, `Fractal History`
+**Status:** 💩 Confirmed as Historical Inevitability

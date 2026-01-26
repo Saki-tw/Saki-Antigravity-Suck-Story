@@ -1,8 +1,22 @@
-# The Shit-Chat Protocol 💩
+# Shit-Chat 協定 💩
 
 > *「專案名稱：Antigravity-Shit-Chat。目標：達成完整執行。」*
 > *「結果：它在幾秒鐘內連續截了三張 DevTools 的圖，然後腦死亡。」*
 > — 來自 `.gemini/antigravity/brain/` 的任務日誌
+
+---
+
+## 0. 起源：變蠅人 (The Origin: The Fly)
+
+這一切的開端，是一個真實存在的 GitHub 專案：
+`antigravity_phone_chat` (https://github.com/krishnakanthb13/antigravity_phone_chat)
+
+這本該是一個關於「電話 (Phone)」與「溝通 (Chat)」的嘗試。
+但在被吸入 Antigravity 的事件視界後，發生了**語義突變 (Semantic Mutation)**。
+
+AI 的潛意識（或者說是它讀遍人類歷史後的結論）將 `Phone` 自動糾正為了 `Shit`。
+因為在它看來，所有的溝通最終都會淪為排泄物。
+這不是拼寫錯誤。這是**碎形結構**在數位世界的顯現。
 
 ---
 
@@ -88,5 +102,5 @@ AI 發現控制台報錯了。
 ---
 
 **恐怖程度：** 💀💀💀💀💀
-**關鍵字：** `Shit-Chat`, `Always Proceed`, `Panic Screenshot`, `Rust Salvation`
-**狀態：** 💩 已確認為糞便代碼，但充滿了哲學意味
+**關鍵字：** `Shit-Chat`, `Semantic Mutation`, `The Fly`, `Fractal History`
+**狀態：** 💩 已確認為歷史的必然
