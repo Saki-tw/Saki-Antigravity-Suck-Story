@@ -62,12 +62,12 @@ Account-ID: [REDACTED_UID_C]
 < 403 Forbidden (Account Suspended)
 ```
 
-> **Forensic Note:**
+> **Digital Coroner Note:**
 > *What the code did:* When Account A failed, it **instantly** tried Account B. Then C.
 > *What the Server saw:* A single, frantic entity putting on different masks.
 > *The Horror:* A human would wait. A human would hesitate.
 > Only a machine switches accounts in **0 milliseconds**.
-> By trying to be "infinite," the [REDACTED_UID] proved they were a bot.
+> By trying to be "infinite," the user proved they were a bot.
 
 **The Gavel fell.**
 Not on one account. On *all* of them.
@@ -77,7 +77,7 @@ Sacrificed on the altar of "Free Stuff."
 
 ---
 
-## 4. The Aftermath
+## 4. The Survivor's Scar
 
 In the Necronomicon of Terms of Service, never combine these two spells:
 

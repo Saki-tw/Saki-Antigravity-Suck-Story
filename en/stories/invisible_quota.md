@@ -26,7 +26,7 @@ The console returned a cold, empty object.
 { "ok": false, "found": [] }
 ```
 
-> **Forensic Note:**
+> **Digital Coroner Note:**
 > *Observation:* The script found **Zero** results.
 > *The Horror:* The eye sees "80%". The code sees "Null".
 > Am I hallucinating? Is the screen lying?
@@ -50,7 +50,7 @@ It shows you what you want to see, but the data is not there.
 
 ---
 
-## 4. The Aftermath
+## 4. The Survivor's Scar
 
 1.  **Do not believe your eyes**. The UI is a lie.
 2.  **Summon the API**. Only the `LanguageServerService` speaks the truth.

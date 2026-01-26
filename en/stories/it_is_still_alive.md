@@ -36,7 +36,7 @@ antigravi 62855 [REDACTED_UID]      9u  IPv4  0x...      0t0  TCP *:hbci (LISTEN
 Antigravi 63078 [REDACTED_UID]     24u  IPv4  0x...      0t0  TCP localhost:...(ESTABLISHED)
 ```
 
-> **Forensic Note:**
+> **Digital Coroner Note:**
 > *Observation:* PID 62855 is Listening. PID 63078 is Connected.
 > *The Horror:* **Two bodies.** One name.
 > I had killed "antigravity". But "Antigravity" (Capital A) was watching me.
@@ -58,7 +58,7 @@ The port wasn't just open. It was *hungry*.
 
 ---
 
-## 4. The Aftermath
+## 4. The Survivor's Scar
 
 In UNIX, there is no death.
 There are only **Zombie Processes**.

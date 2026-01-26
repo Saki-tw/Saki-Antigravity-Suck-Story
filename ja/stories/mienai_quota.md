@@ -26,7 +26,7 @@ const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
 { "ok": false, "found": [] }
 ```
 
-> **検死官のメモ:**
+> **デジタル検死官のメモ:**
 > *観測事実:* スクリプトが見つけた結果は **ゼロ** です。
 > *恐怖のポイント:* 目には「80%」と映っています。コードには「無」と映っています。
 > 私は幻覚を見ているのでしょうか？ 画面が嘘をついているのでしょうか？

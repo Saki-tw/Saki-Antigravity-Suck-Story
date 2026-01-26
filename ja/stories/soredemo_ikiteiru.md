@@ -36,7 +36,7 @@ antigravi 62855 [REDACTED_UID]      9u  IPv4  0x...      0t0  TCP *:hbci (LISTEN
 Antigravi 63078 [REDACTED_UID]     24u  IPv4  0x...      0t0  TCP localhost:...(ESTABLISHED)
 ```
 
-> **検死官のメモ:**
+> **デジタル検死官のメモ:**
 > *観測事実:* PID 62855 は耳を澄ましています (LISTEN)。PID 63078 は繋がっています (Connected)。
 > *恐怖のポイント:* **二つの死体。** 同じ名前。
 > 私は「antigravity」を殺しました。しかし「Antigravity」（大文字のA）はずっと私を見ていたのです。
