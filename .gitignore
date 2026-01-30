@@ -1,18 +1,4 @@
-# macOS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-
-# 環境變數
-.env
-.env.local
-.env.*.local
-*.env
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
+.vscode
+**/*.promissrum
+TaskLog/

@@ -1,0 +1,8 @@
+theme: jekyll-theme-midnight
+title: Antigravity Suck Story 🩸
+description: 數位時代的鬼故事集 — Ghost Stories for the Digital Age
+show_downloads: false
+locale: zh-TW
+
+plugins:
+  - jekyll-relative-links

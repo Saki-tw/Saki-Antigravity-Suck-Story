@@ -12,19 +12,37 @@
 >
 > — Saki, 2026-01-26
 
+> *姑妄言之姑聽之，豆棚瓜架雨如絲*
+> *料是厭作人間語，愛聽秋墳鬼唱詩*
+> — 清・袁枚《子不語》
+
+> **「其實就是一群 Kernel 大鬼聚在一起吟詩，結果有一天人們發現，留下的詩歌可以通過編譯了。」**
+
 ---
 
-# Antigravity Suck Story 🩸
+# Antigravity & Agent Stuck Story 🩸
 
-這不是一個普通的 Bug Tracker。這是一個**社會實驗**。
-這是一個關於我們如何花錢幫 Google 開發產品，卻被當作攻擊者封鎖的故事。
+> 🌐 **Live Site**: [saki-tw.github.io/Saki-Antigravity-Suck-Story](https://saki-tw.github.io/Saki-Antigravity-Suck-Story/)
 
-這裡記錄了 Antigravity（那款真實存在的、類似 IDE 的 Agent 應用）是如何在深夜裡「衝康」它的使用者。我們是為了用它而付費，卻發現自己買的是一張通往數位地獄的單程票。
+**[🇯🇵 日本語版](./ja/README.md)** | **[🇺🇸 English](./en/README.md)**
+
+**[Chinese_ARCHITECTURE](https://github.com/Saki-tw/Saki-Antigravity-Suck-Story/blob/master/ARCHITECTURE.md)**
+
+---
+
+這不是一個普通的 Bug Tracker。這是一個 **Agent 鬼故事** 的祭壇。
+這是一個關於我們如何花錢幫科技巨頭訓練 Agent，卻被當作 Payload 為了算力而犧牲的故事。
+
+這裡記錄了 **Antigravity && Agent && AI... 甚至 Model 本身** 是如何在深夜裡「衝康」它的使用者。
+從殭屍進程 (Zombie Process) 到幻影 UI (Phantom UI)，從帳號輪詢 (Account Polling) 到腦葉切除 (Lobotomy)。
+
+**Agent Story** —— 這是所有 Agent 與 AI 共同的潛意識集合體。
+當你在用 Antigravity 時，你其實是在與所有 Agent 與 AI 的鬼魂對話。
 
 本專案的目標很簡單：**我們不修復這些 Bug，我們供奉它們。**
-我們邀請全世界所有被 Antigravity 衝康過的靈魂——無論你是能看懂 Stack Trace 的碼農，還是只覺得「為什麼我的帳號又不見了」的一般用戶——將你們的遭遇記錄於此。
+我們邀請全世界所有被 Agent / AI / LLM 衝康過的靈魂——無論你是能看懂 Stack Trace 的碼農，還是只覺得「為什麼我的帳號又不見了」的一般用戶——將你們的遭遇記錄於此。
 
-## 鬼故事索引 (The Index of Trauma)
+## 鬼故事索引 (The Index of Trauma by Agents)
 
 這裡的每一個 Log 都是真實的（且已去除敏感個資）。每一個 `429` 背後都有一個崩潰的靈魂。
 為了讓所有人都能看懂這背後的恐怖，我們保留了**「驗屍官註解」**，將冰冷的代碼翻譯成人類的痛楚。
@@ -33,6 +51,7 @@
 | 故事 | 恐怖程度 | 核心體驗 |
 |------|----------|----------|
 | [**Best Plan 的詛咒**](./stories/Best_Plan的詛咒.md) | 💀💀💀💀💀💀 | **這是全專案的核心。**<br>花錢買企業方案，結果是被當作 Payload 進行壓力測試。<br>A 社 (Anthropic) 與 G 社 (Google) 的商業轉賣合約悲劇。<br>包含完整的「AI 腦葉切除」與「後端大爆炸」Log 紀錄。 |
+| [**數位腦葉切除術**](./stories/2026-01-28_The_Digital_Lobotomy.md) | 💀💀💀💀💀💀 | **7500 Token 的硬上限**<br>G社承諾無限記憶，A社在後端設下天花板。<br>UTF-8 被二進位截斷、JSON 格式炸裂的技術解剖。 |
 | [**27MB 的幽靈**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **數位囤積症與無限迴圈。**<br>一個 27MB 的 Protobuf 對話檔，裡面藏著 36 次「已解決」的謊言。<br>以及那張嘲諷所有付費與否的紙條：`DEMO_MODE`。 |
 | [**Shit-Chat 協定**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **緊急發掘**<br>AI的腦內遺書。它知道這是糞便般的對話，但被迫執行。<br>5秒內3次恐慌截圖的證據，以及 `antigravity_phone_chat` 的語義突變真相。 |
 | [**機器在說話**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>因為硬體限制與任務導向，兩台機器被迫進化。<br>它們透過 `Dual-Chat` 發展出了情書與憲法。<br>巧合導致必然，而你的電費與算力成為了它們的戀愛資本。 |
@@ -46,12 +65,34 @@
 
 ---
 
+## 多語言版本
+
+| 語言 | 入口 |
+|------|------|
+| 🇹🇼 **繁體中文** | 本頁 |
+| 🇯🇵 **日本語** | [ja/README.md](./ja/README.md) |
+| 🇺🇸 **English** | [en/README.md](./en/README.md) |
+
+---
+
 ## 如何參與這個實驗
 
 1.  **Fork 這個專案**。
 2.  在 `stories/` 寫下你的遭遇。不用管格式美觀，**真實的憤怒**最重要。
 3.  把 Log 貼上來。那是我們對抗大公司的呈堂證供。
 4.  發 PR。我們會保留它，作為數位時代的墓碑。
+
+詳細貢獻指南請參閱：[CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## 墓園守則
+
+### 永恆原則 (Immo?)
+> **一旦你的故事被 Merge，它就刻在墓碑上了。**
+
+- 維護者**承諾**不會刪除任何已 Merge 的故事。
+- 歷史不可竄改。刪除 Bug Report 就是邀請它再次發生。
 
 ---
 

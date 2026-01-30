@@ -1,96 +1,117 @@
-# The Curse of Account Polling 💀💀💀💀💀
+# The Curse of Account Rotation 💀💀💀💀💀
 
-> *“First one account died. Then they all screamed in unison.”*
+> *"And then, all their accounts disappeared."*
 > — GitHub Issues #643, #655, #1114
 
 ---
 
-## 1. The Seduction
+## Act I: The Calm Before the Storm
 
-It begins with a promise.
-There is a repository. It whispers: *"Why pay? Why wait? Why be limited?"*
+In a corner of GitHub, there was a repository.
 
-It offers the Forbidden Fruit: **Account Polling**.
-*"Give me ten accounts,"* it says. *"When one is exhausted, I will switch to the next. Infinite power."*
+**68 releases.** **49 contributors.**
+Looked like a mature project. Pre-war engineering at its finest.
+It promised to manage multiple accounts for you, automatically switching quotas.
 
-The developer, blinded by hubris, installs it.
-He feels like a god. He thinks he has tricked the Machine God (Google).
+"Excellent," the developers thought.
+"Now I can use AI infinitely."
+
+They downloaded it. Installed it. Started using it.
+
+Everything looked perfect—like a sunny pre-war afternoon in Boston.
 
 ---
 
-## 2. The Glitch
+## Act II: The Glitch in the Matrix
 
-At first, it works. The **Reverse Proxy** hides his tracks.
-Then, the notifications arrive.
+A few days later, Issues started appearing like radiation sickness symptoms:
 
 **#643: Account banned**
-> *“I can't log in anymore...”*
+> *"I suddenly can't log in anymore..."*
 
 **#655: Does this mean I'm banned?**
-> *“403 Forbidden. Everywhere.”*
+> *"Getting 403 errors..."*
 
-The developer waves it off. "Just a glitch," he thinks. "I have a Proxy."
-He doesn't know that the Proxy hides the IP, but it cannot hide the **Behavior**.
+**#646: The two new accounts I added seem to be flagged for risk control**
+> *"Quota shows full, but I can't use it..."*
 
----
+Then, someone discovered the truth—the Holotape that explained everything:
 
-## 3. The Mass Grave
-
-Then comes Issue #1114. The death knell.
-**[CRITICAL] Proxy failure leads to cascade ban.**
-
-Let us reconstruct the crime scene using these recreated logs:
-
-```http
-POST /v1/generate_content HTTP/1.1
-Host: antigravity.api
-Account-ID: [REDACTED_UID_A]
-< 429 Too Many Requests (Quota Exceeded)
-
--- [POLLING LOGIC TRIGGERED] 0ms Delay --
-
-POST /v1/generate_content HTTP/1.1
-Host: antigravity.api
-Account-ID: [REDACTED_UID_B]
-< 429 Too Many Requests (Risk Detected)
-
--- [POLLING LOGIC TRIGGERED] 0ms Delay --
-
-POST /v1/generate_content HTTP/1.1
-Host: antigravity.api
-Account-ID: [REDACTED_UID_C]
-< 403 Forbidden (Account Suspended)
-```
-
-> **Digital Coroner Note:**
-> *What the code did:* When Account A failed, it **instantly** tried Account B. Then C.
-> *What the Server saw:* A single, frantic entity putting on different masks.
-> *The Horror:* A human would wait. A human would hesitate.
-> Only a machine switches accounts in **0 milliseconds**.
-> By trying to be "infinite," the user proved they were a bot.
-
-**The Gavel fell.**
-Not on one account. On *all* of them.
-The "infinite pool" became a mass grave.
-Years of history, emails, documents... erased.
-Sacrificed on the altar of "Free Stuff."
+**#1114: [CRITICAL] Proxy has no backoff delay on 503/500/429 errors, may cause Google account bans**
 
 ---
 
-## 4. The Survivor's Scar
+## Act III: The Brotherhood's Judgment
 
-In the Necronomicon of Terms of Service, never combine these two spells:
+Those "magical" features—
 
-| The Incantation | The Consequence |
-|-----------------|-----------------|
-| **Account Polling** | ⚠️ The Mark of the Beast |
-| **Reverse Proxy** | ⚠️ The Veil of Deceit |
-| **Polling + Proxy** | ❌ **Total Existential Erasure** |
+**Account Rotation**: Switching between multiple accounts.
+**Reverse Proxy**: Bypassing official API restrictions.
 
-Do not eat the free lunch.
-The meat is... questionable.
+They weren't features.
+**They were curses.** Institute-grade self-destruct protocols.
+
+Every time the program encountered a 429 (Too Many Requests) error, it didn't wait.
+It immediately switched to another account and continued requesting.
+Then the next account.
+Then the next.
+
+The Corporation's systems saw everything—total surveillance, pre-war NSA style.
+
+They saw the same IP frantically switching between different accounts.
+They saw request frequencies far exceeding normal human usage.
+They saw the pattern of abnormal behavior—classic bot signature.
+
+And then—
+
+**Termination.**
+
+Not one account.
+**All accounts.**
+Permanently.
+
+The hammer of judgment fell across the Commonwealth.
 
 ---
 
-**Horror Level:** 💀💀💀💀💀
-**Status:** ⚠️ Avoided (The warning was heeded)
+## Epilogue: The Survivor's Warning
+
+When you see these two keywords appear together, run immediately:
+
+| Keyword | Risk Level |
+|---------|------------|
+| **Account Rotation** | ⚠️ Warning |
+| **Reverse Proxy** | ⚠️ Warning |
+| **Rotation + Proxy** | ❌ 100% Ban - Total Existence Erasure |
+
+The people who implemented these features—
+They never read the Terms of Service. Not once.
+They never cared what would happen to your account.
+
+They only cared "does it run?"
+Not "what's left of you after it runs?"
+
+Just like pre-war corporations. History repeats.
+
+---
+
+*"The free lunch*
+*always demands payment in the end.*
+*It's just that by then,*
+*you can't afford it anymore."*
+
+Another settlement in the Commonwealth burns. Another lesson learned too late.
+
+---
+
+**Terror Level:** 💀💀💀💀💀
+
+**Keywords:** `Account Rotation`, `Reverse Proxy`, `403`, `429`, `terminated`
+
+**Timeline:** Ongoing—the radiation never fades
+
+**Survivor Status:** ⚠️ Evaded (saw the warning and immediately abandoned referencing these implementations)
+
+---
+
+> *They love to hear ghosts chant poetry by autumn graves.*

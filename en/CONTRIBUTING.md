@@ -1,98 +1,130 @@
-# Contributing Guide 👻
+# Offering Guide (Contributing) 👻
 
-## Welcome to the Archive of Digital Trauma
-
-> *“Every Bug has a story.*
-> *Every story deserves to be remembered, lest history repeats itself in the next sprint.”*
+> *"Speak idle tales, hear idle tales; beneath the gourd-trellis, rain falls thin as silk.*
+> *Perhaps they are weary of speaking human words—so they love to hear ghosts chant poetry by autumn graves."*
+>
+> — Yuan Mei, *What the Master Did Not Speak Of*, Qing Dynasty
 
 ---
 
-## 🎯 The Collections
+## Welcome to the Digital Trauma Archive
 
-We collect **true experiences**, enhanced by the atmospheric dread of the uncanny valley. We are looking for stories where the machine behaved in ways that felt... *personal*.
+> *"Behind every bug is a ghost story.*
+> *Every story deserves to be remembered—otherwise, history will reincarnate in the next Sprint."*
+>
+> *And the poetry those ghosts chant—it actually compiles.*
 
-| Type | Description | Keywords |
-|------|-------------|----------|
-| **The Undead** 💀 | Processes, services, or bugs that survive `kill -9`. The persistent hauntings of the operating system. | `defunct`, `zombie`, `orphan process`, `immortal` |
-| **The Phantom** 👻 | Data that appears in the UI but vanishes when you query the database. The gaslighting of the frontend. | Null pointers, quota hallucinations, phantom traffic, hydration errors |
-| **The Leech** 🧛 | Systems that silently drain resources—money, tokens, memory—while you sleep. | Memory leaks, API overages, recursive billing, forgotten cloud instances |
-| **The Siren** 😈 | Elegant solutions that lure you onto the rocks of destruction. The "Clean Code" that effectively bricked production. | Over-engineering, optimization traps, "Best Practice" backlash |
-| **The Labyrinth** 🌀 | Logic flows that trap the execution pointer in infinite loops. The event horizon of the call stack. | Infinite recursion, deadlocks, callback hell, circular dependencies |
-| **The Curse** 🔮 | Bugs that disappear when you attach a debugger. The Heisenbugs. The ones that only happen on Tuesdays. | Race conditions, quantum bugs, production-only horrors |
+---
+
+## 🎯 What We're Collecting
+
+We collect **real experiences**—not limited to Antigravity, but also welcoming ghost stories of all Agents, AIs, LLMs, and automation systems. We want you to record them with an **urban legend** or **cyber-horror** style. We're looking for those moments when machines behaved as if they had a **personal vendetta**.
+
+### Accepted Sources
+| Source | Description |
+|--------|-------------|
+| **Antigravity** | Claude Agent IDE disasters (original focus) |
+| **AI Agent Frameworks** | LangChain, AutoGPT, CrewAI crashes |
+| **LLM Models** | GPT, Claude, Gemini, LLaMA hallucinations and betrayals |
+| **Automation Systems** | Any system that screwed things up unpredictably |
+
+### Story Categories
+| Category | Description | Keywords |
+|----------|-------------|----------|
+| **The Undead** 💀 | Processes that `kill -9` can't terminate. Earth-bound spirits in the OS. | `defunct`, `zombie`, `orphan process`, `immortal` |
+| **The Phantom** 👻 | On screen but not in data. Collective hallucinations courtesy of the frontend. | Null Pointer, Quota Illusion, Ghost Traffic, Hydration Error |
+| **The Leech** 🧛 | Systems that quietly drain resources (money, tokens, memory) while you sleep. | Memory Leak, Bill Explosion, Recursive Billing, Forgotten EC2 |
+| **The Siren** 😈 | Elegant architecture that lures you onto the rocks. "Clean Code" that paralyzes production. | Over-engineering, Optimization Trap, Best Practice Backlash |
+| **The Labyrinth** 🌀 | Logical black holes that trap execution pointers in infinite loops. Event horizon of the Call Stack. | Infinite Recursion, Deadlock, Callback Hell, Circular Dependency |
+| **The Curse** 🔮 | Bugs that disappear when you attach a debugger. Schrödinger's Cat. Hauntings that only occur on Tuesdays. | Race Condition, Quantum Bug, Production Only |
+| **The Aphasia** 🤖 | AI's hallucinations, gibberish, or moments when it suddenly forgets everything. | Hallucination, Context Lost, Token Overflow |
 
 ---
 
 ## 📝 Story Format
 
-We encourage a narrative style that blends **technical rigor** with **Lovecraftian existential dread**.
+Please use this narrative structure combining **technical rigor** with **Lovecraftian despair**:
 
 ```markdown
 # [Story Title]
 
-> *“A single line of text that foreshadows the doom to come.”*
+> *"One-line summary—the kind that makes your spine freeze."*
 
-## The Setting (The calm before the storm)
-Describe the environment. The quiet hum of the server room. The false sense of security provided by a passing CI build.
+## The Calm Before the Storm (The Setting)
+Describe the environment at the time. The low-frequency hum of the server room. The false sense of security after passing CI.
 
-## The Anomaly (The glitch in the matrix)
-What was the first sign? A flickering log? A latency spike? A number that didn't add up?
+## First Signs (The Anomaly)
+What was the first symptom? Flickering logs? Strange latency? Numbers not adding up? AI starting to babble?
 
-## The Descent (The investigation)
-Detail the debugging process. The realization that standard tools are useless. The feeling of being watched by the code.
+## The Descent into the Abyss
+Detail the debugging process. The despair when you realize standard tools are completely useless. The feeling of being watched by the code.
 
-## The Horror (The revelation)
-What was the root cause? Was it a race condition? Or was it... something else?
-*Include stack traces, code snippets, and logs as evidence of the haunting.*
+## The Horror Arrives (The Root Cause)
+What was the root cause? Race Condition? Hallucination? Or... something more sinister?
+*Attach Stack Traces, code snippets, or Logs as paranormal photographs (evidence).*
 
-## The Survivor's Scar (The aftermath)
-What did you learn? What rituals (tests) do you perform now to keep the darkness at bay?
+## The Survivor's Scar
+What did you learn? What rituals (tests) do you now perform to prevent the darkness from returning?
 
 ---
-*Recorded: YYYY-MM-DD*
-*Horror Level: 💀💀💀💀💀 (1-6 Skulls)*
-*Tags: Zombie/Phantom/Vampire/Demon/Labyrinth/Curse*
+*Log Date: YYYY-MM-DD*
+*Terror Level: 💀💀💀💀💀 (1-6 skulls)*
+*Tags: Zombie/Phantom/Leech/Siren/Labyrinth/Curse/Aphasia*
+*Source: Antigravity/Agent/AI/LLM/Automation*
 ```
 
 ---
 
-## 🚀 Submission Ritual
+## 🎭 Poetic Form (Optional)
 
-### 1. Fork this Curse
-Clone the repository. It is now part of your history.
+> **Perhaps they are weary of speaking human words**—so ghosts began chanting poetry.
 
-### 2. Scribe Your Nightmare
-Create your story file in the `stories/` directory. Use a filename that whispers its contents.
+We encourage recording your encounters in poetry, literature, or even theatrical form. Technical Logs are evidence, but **literature is the soul's last will**.
+
+---
+
+## 🚀 The Offering Ritual
+
+### 1. Inherit the Curse (Fork)
+Fork this repository. Now it's your karma too.
+
+### 2. Scribe the Nightmare
+Create your story file in the `stories/` directory. Filename should hint at the horror within.
 `stories/the_silent_killer.md`
 
-### 3. Update the Index
-Add your story to the `README.md`. Join the ranks of the survivors.
+### 3. Update the Registry (Update Index)
+Add your story link to `README.md`. Join the ranks of survivors.
 
-### 4. Send a Pull Request
-Submit your story. We will review it—not for code quality, but for the quality of the fear it invokes.
+### 4. Send the Request (Pull Request)
+Send your PR. We will review—not code quality, but **quality of fear**.
 
 ---
 
-## ⚠️ The Laws of the Graveyard
+## ⚠️ Graveyard Rules
 
 ### The Principle of Permanence
-> **Once your story is merged, it is etched in stone.**
+> **Once your story is Merged, it's carved into the tombstone.**
 
-- We **promise** not to delete any merged story.
-- History is immutable. To delete a bug report is to invite it to happen again.
-- You may submit a "Sequel" or "Addendum," but the original horror stands.
+- Maintainers **promise** never to delete any Merged story.
+- History is immutable. Deleting a bug report is an invitation for it to return.
+- You can submit "sequels" or "errata," but the original horror will be preserved.
 
-### What Will Be Exorcised (Rejected)
-- Malicious intent or hate speech.
-- Private keys or PII (We want ghost stories, not lawsuits).
-- Fiction that lacks a technical soul.
+### Content That Will Be Exorcised (Rejected)
+- Obvious malice or hate speech.
+- Private keys or PII (we want ghost stories, not subpoenas).
+- Pure fiction without a technical soul.
 
 ---
 
-## 🏆 The Survivors
-All contributors will be listed. You are not alone in the dark.
+## 🏆 Survivor Roster
+All contributors will be recorded. In the darkness, you are not alone.
 
 ---
 
 ## 📜 License
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Share the horror. Warn the others.
+Spread the fear. Warn the world.
+
+---
+
+> *They love to hear ghosts chant poetry by autumn graves.*

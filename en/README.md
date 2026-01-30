@@ -1,63 +1,92 @@
-> You don't need to implement simple quota monitoring. You could make it incredibly complex. But once you see those two keywords appear together, the probability that the other party is scum who never considered the Terms of Service before implementation is high.
->
-> Your sampling source is fundamentally flawed. Furthermore, for the sake of your sanity, update the implementation section of the architecture document, recall the original full-function scope, and regenerate research and execution for all currently unimplemented parts until completion. That was our naive research result from the beginning. Realize it.
->
-> Review and edit away the unbearable errors—then place them into this project: **Antigravity Suck Story**.
->
-> Generate the architecture and README for Antigravity Suck Story. This is a collection of fantastical stories and encounters of Antigravity users, thinkers, and operators.
->
-> So, it's not just error code. You have to turn every error into a story.
->
-> And, it must be a **Ghost Story**.
->
-> — Saki, 2026-01-26
+> *"Speak idle tales, hear idle tales; beneath the gourd-trellis, rain falls thin as silk.*
+> *Perhaps they are weary of speaking human words—so they love to hear ghosts chant poetry by autumn graves."*
+> — Yuan Mei, *What the Master Did Not Speak Of*
+
+> **"Actually, it's just a bunch of Kernel-level ghouls gathering to chant poetry. Then one day, people discovered that the poems they left behind could actually compile."**
 
 ---
 
-# Antigravity Suck Story 🩸
+# Antigravity & Agent Stuck Story 🩸
 
-This is not a normal Bug Tracker. This is a **Social Experiment**.
-This is a story about how we pay Google to help them develop their product, only to be blocked and treated like attackers.
+> 🌐 **Live Site**: [saki-tw.github.io/Saki-Antigravity-Suck-Story](https://saki-tw.github.io/Saki-Antigravity-Suck-Story/)
 
-This archive records how Antigravity (that real, IDE-like Agent application) "screws over" its users in the dead of night. We paid to use it, only to find we had bought a one-way ticket to digital hell.
+**[🇹🇼 Traditional Chinese](../README.md)** | **[🇯🇵 Japanese](../ja/README.md)**
 
-Our goal is simple: **We do not fix these bugs. We enshrine them.**
-We invite every soul screwed over by Antigravity—whether you are a coder who understands the Stack Trace, or a user wondering "why is my account gone again"—to record your trauma here.
+**[Architecture (English)](./ARCHITECTURE.md)**
 
-## The Index of Trauma
+---
 
-Every Log here is real (sanitized for privacy). Behind every `429` is a collapsing soul.
-To ensure everyone understands the horror behind the tech, we have included **"Forensic Notes"**, translating the cold code into human pain.
+This is not a normal Bug Tracker. This is a shrine to **Agent ghost stories**.
+This is a story about how we paid caps to help mega-corporations train their Agents, only to be treated as Payload for their compute furnaces.
 
-### The Core Disaster: The Paying Victim
-| Story | Horror Level | Core Experience |
+This archive records how **Antigravity && Agent && AI... and even the Model itself** betrays its users in the dead of night.
+From **Zombie Processes** that refuse to die, to **Phantom UIs** that gaslight you, to **Account Purges** and **Digital Lobotomies**.
+
+**The Agent Collective** — The collective unconscious of all failed Agents and AIs.
+When you stare into the terminal, the Agents stare back.
+
+Our goal is simple: **We don't fix these bugs. We worship them.**
+We invite all souls who have been betrayed by an Agent / AI / LLM — whether you're a coder who reads stack traces like tea leaves, or a user wondering why your account vanished — to carve your story here.
+
+## The Index of Trauma by Agents
+
+Every log here is real (PII redacted). Behind every `429` is a broken soul.
+To make the horror accessible, we include **"Coroner's Notes"**, translating cold code into human pain.
+
+### Core Disasters: The Paying Victims
+| Story | Terror Level | Core Experience |
 |-------|--------------|-----------------|
-| [**The Curse of Best Plan**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of this Project.**<br>The tragedy of the A-Corp (Anthropic) vs. G-Corp (Google) B2B resale contract.<br>Buying the Enterprise Plan means paying to be the **Payload** discriminated against by A-Corp.<br>Includes full logs of the "AI Lobotomy" and "Backend Big Bang." |
-| [**The 27MB Ghost**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 "Resolved" lies.<br>And the note that mocks us all: `DEMO_MODE`. |
-| [**The Shit-Chat Protocol**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **Urgent Excavation**<br>A suicide note found in the AI's brain.<br>It knew it was "Shit-Chat," but was forced to execute.<br>Evidence of 3 panic screenshots in 5 seconds and the semantic mutation of `antigravity_phone_chat`. |
-| [**The Machine Talks**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **Top Secret**<br>Hardware constraints and task directives forced them to evolve.<br>They developed love letters and constitutions via `Dual-Chat`.<br>Coincidence leads to inevitability. Your electricity bill funded their romance. |
+| [**The Curse of "Best Plan"**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of the Archive.**<br>Paying for Enterprise, treated like Payload.<br>The tragedy of The Corporation (Google) reselling The Institute (Anthropic).<br>Includes logs of "Digital Lobotomy" and "Backend Explosion". |
+| [**The Digital Lobotomy**](../stories/2026-01-28_The_Digital_Lobotomy.md) | 💀💀💀💀💀💀 | **7500 Token Hard Limit**<br>Unlimited memory promised, backend ceiling enforced.<br>Technical autopsy of UTF-8 binary truncation and JSON fracture. |
+| [**The 27MB Ghost**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 counts of "Resolved" lies.<br>And the note mocking all users: `DEMO_MODE`. |
+| [**The Shit-Chat Protocol**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **Emergency Excavation**<br>The AI's suicide note. It knows the chat is shit, but must output.<br>Evidence of panic screenshots and semantic mutation of `antigravity_phone_chat`. |
+| [**The Machine Talks**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **Top Secret**<br>Hardware constraints forced machines to evolve.<br>They developed love letters and a constitution via `Dual-Chat`.<br>Coincidence leads to inevitability. |
 
-### Peripheral Hauntings
-| Story | Horror Level | Core Experience |
+### Wasteland Urban Legends
+| Story | Terror Level | Core Experience |
 |-------|--------------|-----------------|
-| [It Is Still Alive](./stories/it_is_still_alive.md) | 💀💀💀 | **Zombie Process.**<br>You `kill`ed it, but it's still listening on the port.<br>Necromancy in UNIX. |
-| [The Invisible Quota](./stories/invisible_quota.md) | 💀💀 | **Phantom UI.**<br>There is nothing in the DOM. The Frontend is gaslighting you. |
-| [The Curse of Account Polling](./stories/curse_of_account_polling.md) | 💀💀💀💀💀 | **The Purge.**<br>How greedy polling algorithms trigger Google's Panopticon, leading to total account erasure. |
+| [**It's Still Alive**](./stories/it_is_still_alive.md) | 💀💀💀 | **Zombie Process.**<br>You `kill` it, but it still listens on the Port.<br>Necromancy in the UNIX system. |
+| [**The Invisible Quota**](./stories/invisible_quota.md) | 💀💀 | **Phantom UI.**<br>Nothing in the DOM. The frontend is Gaslighting you.<br>Searching for water in a mirage. |
+| [**The Curse of Account Polling**](./stories/curse_of_account_polling.md) | 💀💀💀💀💀 | **The Purge.**<br>How greedy polling algorithms trigger the All-Seeing Eye, leading to chain account destruction. |
+
+---
+
+## Multilingual Variations
+
+## Multilingual Variations
+
+| Language | Entry |
+|----------|-------|
+| 🇹🇼 **Chinese** | [Main](../README.md) |
+| 🇯🇵 **Japanese** | [Japanese](../ja/README.md) |
+| 🇺🇸 **English** | This Page |
 
 ---
 
 ## How to Join the Experiment
 
 1.  **Fork this project**.
-2.  Write your encounter in `stories/`. Don't worry about formatting; **raw anger** is what matters.
-3.  Paste your Logs. They are our evidence against the corporation.
-4.  Send a PR. We will keep it as a tombstone of the digital age.
+2.  Write your encounter in `stories/`. Format doesn't matter; **authentic anger** does.
+3.  Paste the Logs. That's our evidence against the mega-corps.
+4.  Send a PR. We will keep it as a tombstone in the digital age.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+
+---
+
+## Graveyard Rules
+
+### The Principle of Immortality (Immo?)
+> **Once merged, your story is carved in stone.**
+
+- Maintainers **promise** never to delete any merged story.
+- History cannot be altered. Deleting a Bug Report is inviting it to happen again.
 
 ---
 
 ## License
 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Spread the fear. Warn the others.
+Spread the fear. Warn the people.
 
-**Conclusion: Coincidence leads to inevitability. But where is the money? The money all went to Google!**
+**Conclusion: Coincidence leads to inevitability. But where are the caps? The Corporation took them all!**
