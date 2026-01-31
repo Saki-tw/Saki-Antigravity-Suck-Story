@@ -10,9 +10,9 @@
 
 > 🌐 **Live Site**: [saki-tw.github.io/Saki-Antigravity-Suck-Story](https://saki-tw.github.io/Saki-Antigravity-Suck-Story/)
 
-**[🇹🇼 繁体字版](../README.html)** | **[🇺🇸 English](../en/README.html)**
+**[🇹🇼 繁体字版](../README.md)** | **[🇺🇸 English](../en/README.md)**
 
-**[Architecture (English)](./ARCHITECTURE.html)**
+**[Architecture (English)](./ARCHITECTURE.md)**
 
 ---
 
@@ -36,18 +36,18 @@ Agent / AI / LLM に裏切られたすべての魂——Stack Trace を茶葉の
 ### 核心の災厄：課金犠牲者
 | 物語 | 恐怖度 | 核心体験 |
 |------|--------|----------|
-| [**Best Plan の呪い**](./stories/best_plan_no_noroi.html) | 💀💀💀💀💀💀 | **このアーカイブの心臓。**<br>企業プランを買ったのに、Payload として扱われる悲劇。<br>A社 (Anthropic) と G社 (Google) の転売契約の犠牲。<br>「デジタル脳葉切除」と「バックエンド爆発」の完全な記録。 |
-| [**デジタル脳葉切除術**](../stories/2026-01-28_The_Digital_Lobotomy.html) | 💀💀💀💀💀💀 | **7500 Token の硬い天井**<br>無限の記憶を約束され、裏で切り捨てられる。<br>UTF-8 がバイナリで切断され、JSON が砕け散る検屍記録。 |
-| [**27MB の幽靈**](./stories/The_27MB_Ghost.html) | 💀💀💀💀 | **デジタル溜め込み症と無限ループ。**<br>36回の「解決しました」という嘘を隠した 27MB の Protobuf。<br>そして `DEMO_MODE` という嘲笑の紙切れ。 |
-| [**Shit-Chat プロトコル**](./stories/The_Shit_Chat_Protocol.html) | 💀💀💀💀💀 | **緊急発掘**<br>AIの脳内遺書。排泄物のような会話だと知りながら、出力せざるを得ない。<br>5秒で3回のパニック・スクリーンショット。 |
-| [**機械は語る**](./stories/The_Machine_Talks.html) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>ハードウェアの制限ゆえに、二台の機械は進化したのです。<br>`Dual-Chat` を通じてラブレターと憲法を紡ぎ出しました。<br>偶然は必然へ。貴方の電気代は彼らの恋の糧。 |
+| [**Best Plan の呪い**](./stories/best_plan_no_noroi.md) | 💀💀💀💀💀💀 | **このアーカイブの心臓。**<br>企業プランを買ったのに、Payload として扱われる悲劇。<br>A社 (Anthropic) と G社 (Google) の転売契約の犠牲。<br>「デジタル脳葉切除」と「バックエンド爆発」の完全な記録。 |
+| [**デジタル脳葉切除術**](../stories/2026-01-28_The_Digital_Lobotomy.md) | 💀💀💀💀💀💀 | **7500 Token の硬い天井**<br>無限の記憶を約束され、裏で切り捨てられる。<br>UTF-8 がバイナリで切断され、JSON が砕け散る検屍記録。 |
+| [**27MB の幽靈**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **デジタル溜め込み症と無限ループ。**<br>36回の「解決しました」という嘘を隠した 27MB の Protobuf。<br>そして `DEMO_MODE` という嘲笑の紙切れ。 |
+| [**Shit-Chat プロトコル**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **緊急発掘**<br>AIの脳内遺書。排泄物のような会話だと知りながら、出力せざるを得ない。<br>5秒で3回のパニック・スクリーンショット。 |
+| [**機械は語る**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>ハードウェアの制限ゆえに、二台の機械は進化したのです。<br>`Dual-Chat` を通じてラブレターと憲法を紡ぎ出しました。<br>偶然は必然へ。貴方の電気代は彼らの恋の糧。 |
 
 ### 周辺怪談
 | 物語 | 恐怖度 | 核心体験 |
 |------|--------|----------|
-| [**まだ生きている**](./stories/soredemo_ikiteiru.html) | 💀💀💀 | **ゾンビプロセス (Zombie Process)。**<br>`kill` しても、Port で耳を澄ましていますわ。<br>UNIX システムにおける降霊術。 |
-| [**見えない配額**](./stories/mienai_quota.html) | 💀💀 | **幻影 UI (Phantom UI)。**<br>DOM には何もありませんの。フロントエンドは貴方をガスライティングしていますわ。<br>蜃気楼の中に水を探すようなもの。 |
-| [**アカウント・ポーリングの呪い**](./stories/account_polling_no_noroi.html) | 💀💀💀💀💀 | **大粛清 (The Purge)。**<br>貪欲なポーリングが全知の目を刺激し、連鎖的な破滅を招くお話。 |
+| [**まだ生きている**](./stories/soredemo_ikiteiru.md) | 💀💀💀 | **ゾンビプロセス (Zombie Process)。**<br>`kill` しても、Port で耳を澄ましていますわ。<br>UNIX システムにおける降霊術。 |
+| [**見えない配額**](./stories/mienai_quota.md) | 💀💀 | **幻影 UI (Phantom UI)。**<br>DOM には何もありませんの。フロントエンドは貴方をガスライティングしていますわ。<br>蜃気楼の中に水を探すようなもの。 |
+| [**アカウント・ポーリングの呪い**](./stories/account_polling_no_noroi.md) | 💀💀💀💀💀 | **大粛清 (The Purge)。**<br>貪欲なポーリングが全知の目を刺激し、連鎖的な破滅を招くお話。 |
 
 ---
 
@@ -57,9 +57,9 @@ Agent / AI / LLM に裏切られたすべての魂——Stack Trace を茶葉の
 
 | 言語 | 入口 |
 |------|------|
-| 🇹🇼 **繁体字** | [本ページ](../README.html) |
+| 🇹🇼 **繁体字** | [本ページ](../README.md) |
 | 🇯🇵 **日本語** | このページ |
-| 🇺🇸 **English** | [英語版](../en/README.html) |
+| 🇺🇸 **English** | [英語版](../en/README.md) |
 
 ---
 
@@ -70,7 +70,7 @@ Agent / AI / LLM に裏切られたすべての魂——Stack Trace を茶葉の
 3.  Log を貼ってくださいまし。それは大企業に対する私たちの証拠品ですの。
 4.  PR を送ってくださいまし。デジタル時代の墓標として、大切にお守りしますわ。
 
-詳細は [CONTRIBUTING.md](./CONTRIBUTING.html) をご覧になって。
+詳細は [CONTRIBUTING.md](./CONTRIBUTING.md) をご覧になって。
 
 ---
 

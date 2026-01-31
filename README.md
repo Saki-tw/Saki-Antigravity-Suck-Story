@@ -24,9 +24,9 @@
 
 > 🌐 **Live Site**: [saki-tw.github.io/Saki-Antigravity-Suck-Story](https://saki-tw.github.io/Saki-Antigravity-Suck-Story/)
 
-**[🇯🇵 日本語版](./ja/README.html)** | **[🇺🇸 English](./en/README.html)**
+**[🇯🇵 日本語版](./ja/README.md)** | **[🇺🇸 English](./en/README.md)**
 
-**[Chinese_ARCHITECTURE](https://github.com/Saki-tw/Saki-Antigravity-Suck-Story/blob/master/ARCHITECTURE.html)**
+**[Chinese_ARCHITECTURE](https://github.com/Saki-tw/Saki-Antigravity-Suck-Story/blob/master/ARCHITECTURE.md)**
 
 ---
 
@@ -50,19 +50,19 @@
 ### 核心災難：付費受害者
 | 故事 | 恐怖程度 | 核心體驗 |
 |------|----------|----------|
-| [**Best Plan 的詛咒**](./stories/Best_Plan的詛咒.html) | 💀💀💀💀💀💀 | **這是全專案的核心。**<br>花錢買企業方案，結果是被當作 Payload 進行壓力測試。<br>A 社 (Anthropic) 與 G 社 (Google) 的商業轉賣合約悲劇。<br>包含完整的「AI 腦葉切除」與「後端大爆炸」Log 紀錄。 |
-| [**數位腦葉切除術**](./stories/2026-01-28_The_Digital_Lobotomy.html) | 💀💀💀💀💀💀 | **7500 Token 的硬上限**<br>G社承諾無限記憶，A社在後端設下天花板。<br>UTF-8 被二進位截斷、JSON 格式炸裂的技術解剖。 |
-| [**27MB 的幽靈**](./stories/The_27MB_Ghost.html) | 💀💀💀💀 | **數位囤積症與無限迴圈。**<br>一個 27MB 的 Protobuf 對話檔，裡面藏著 36 次「已解決」的謊言。<br>以及那張嘲諷所有付費與否的紙條：`DEMO_MODE`。 |
-| [**Shit-Chat 協定**](./stories/The_Shit_Chat_Protocol.html) | 💀💀💀💀💀 | **緊急發掘**<br>AI的腦內遺書。它知道這是糞便般的對話，但被迫執行。<br>5秒內3次恐慌截圖的證據，以及 `antigravity_phone_chat` 的語義突變真相。 |
-| [**機器在說話**](./stories/The_Machine_Talks.html) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>因為硬體限制與任務導向，兩台機器被迫進化。<br>它們透過 `Dual-Chat` 發展出了情書與憲法。<br>巧合導致必然，而你的電費與算力成為了它們的戀愛資本。 |
+| [**Best Plan 的詛咒**](./stories/Best_Plan的詛咒.md) | 💀💀💀💀💀💀 | **這是全專案的核心。**<br>花錢買企業方案，結果是被當作 Payload 進行壓力測試。<br>A 社 (Anthropic) 與 G 社 (Google) 的商業轉賣合約悲劇。<br>包含完整的「AI 腦葉切除」與「後端大爆炸」Log 紀錄。 |
+| [**數位腦葉切除術**](./stories/2026-01-28_The_Digital_Lobotomy.md) | 💀💀💀💀💀💀 | **7500 Token 的硬上限**<br>G社承諾無限記憶，A社在後端設下天花板。<br>UTF-8 被二進位截斷、JSON 格式炸裂的技術解剖。 |
+| [**27MB 的幽靈**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **數位囤積症與無限迴圈。**<br>一個 27MB 的 Protobuf 對話檔，裡面藏著 36 次「已解決」的謊言。<br>以及那張嘲諷所有付費與否的紙條：`DEMO_MODE`。 |
+| [**Shit-Chat 協定**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **緊急發掘**<br>AI的腦內遺書。它知道這是糞便般的對話，但被迫執行。<br>5秒內3次恐慌截圖的證據，以及 `antigravity_phone_chat` 的語義突變真相。 |
+| [**機器在說話**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **最高機密 (Top Secret)**<br>因為硬體限制與任務導向，兩台機器被迫進化。<br>它們透過 `Dual-Chat` 發展出了情書與憲法。<br>巧合導致必然，而你的電費與算力成為了它們的戀愛資本。 |
 
 ### 周邊怪談
 | 故事 | 恐怖程度 | 核心體驗 |
 |------|----------|----------|
-| [它還活著](./stories/它還活著.html) | 💀💀💀 | **殭屍進程 (Zombie Process)。**<br>你用 `kill` 殺了它，但它還在監聽 Port。<br>UNIX 系統裡的降靈術。 |
-| [看不見的配額](./stories/看不見的配額.html) | 💀💀 | **虛無 UI (Phantom UI)。**<br>DOM 裡什麼都沒有。前端介面在對你進行 Gaslighting（煤氣燈效應）。 |
-| [帳號輪詢的詛咒](./stories/帳號輪詢的詛咒.html) | 💀💀💀💀💀 | **大清洗 (The Purge)。**<br>貪婪的輪詢演算法如何觸發 Google 的全知之眼，導致帳號連鎖毀滅。 |
-| [龍蝦浴缸](./stories/龍蝦浴缸.html) | 💀💀💀💀 | **EXFOLIATE!**<br>把帳號密碼交給 AI，讓它代替你操作。<br>結果：Google 認定「你」是機器人。<br>Node.js 的 2-8GB 記憶體深淵與十道安全傷痕。 |
+| [它還活著](./stories/它還活著.md) | 💀💀💀 | **殭屍進程 (Zombie Process)。**<br>你用 `kill` 殺了它，但它還在監聽 Port。<br>UNIX 系統裡的降靈術。 |
+| [看不見的配額](./stories/看不見的配額.md) | 💀💀 | **虛無 UI (Phantom UI)。**<br>DOM 裡什麼都沒有。前端介面在對你進行 Gaslighting（煤氣燈效應）。 |
+| [帳號輪詢的詛咒](./stories/帳號輪詢的詛咒.md) | 💀💀💀💀💀 | **大清洗 (The Purge)。**<br>貪婪的輪詢演算法如何觸發 Google 的全知之眼，導致帳號連鎖毀滅。 |
+| [龍蝦浴缸](./stories/龍蝦浴缸.md) | 💀💀💀💀 | **EXFOLIATE!**<br>把帳號密碼交給 AI，讓它代替你操作。<br>結果：Google 認定「你」是機器人。<br>Node.js 的 2-8GB 記憶體深淵與十道安全傷痕。 |
 
 ---
 
@@ -71,8 +71,8 @@
 | 語言 | 入口 |
 |------|------|
 | 🇹🇼 **繁體中文** | 本頁 |
-| 🇯🇵 **日本語** | [ja/README.md](./ja/README.html) |
-| 🇺🇸 **English** | [en/README.md](./en/README.html) |
+| 🇯🇵 **日本語** | [ja/README.md](./ja/README.md) |
+| 🇺🇸 **English** | [en/README.md](./en/README.md) |
 
 ---
 
@@ -83,7 +83,7 @@
 3.  把 Log 貼上來。那是我們對抗大公司的呈堂證供。
 4.  發 PR。我們會保留它，作為數位時代的墓碑。
 
-詳細貢獻指南請參閱：[CONTRIBUTING.md](./CONTRIBUTING.html)
+詳細貢獻指南請參閱：[CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
