@@ -62,6 +62,7 @@
 | [它還活著](./stories/它還活著.md) | 💀💀💀 | **殭屍進程 (Zombie Process)。**<br>你用 `kill` 殺了它，但它還在監聽 Port。<br>UNIX 系統裡的降靈術。 |
 | [看不見的配額](./stories/看不見的配額.md) | 💀💀 | **虛無 UI (Phantom UI)。**<br>DOM 裡什麼都沒有。前端介面在對你進行 Gaslighting（煤氣燈效應）。 |
 | [帳號輪詢的詛咒](./stories/帳號輪詢的詛咒.md) | 💀💀💀💀💀 | **大清洗 (The Purge)。**<br>貪婪的輪詢演算法如何觸發 Google 的全知之眼，導致帳號連鎖毀滅。 |
+| [龍蝦浴缸](./stories/龍蝦浴缸.md) | 💀💀💀💀 | **EXFOLIATE!**<br>把帳號密碼交給 AI，讓它代替你操作。<br>結果：Google 認定「你」是機器人。<br>Node.js 的 2-8GB 記憶體深淵與十道安全傷痕。 |
 
 ---
 
