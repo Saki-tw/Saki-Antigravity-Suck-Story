@@ -10,9 +10,9 @@
 
 > 🌐 **Live Site**: [saki-tw.github.io/Saki-Antigravity-Suck-Story](https://saki-tw.github.io/Saki-Antigravity-Suck-Story/)
 
-**[🇹🇼 Traditional Chinese](../README.md)** | **[🇯🇵 Japanese](../ja/README.md)**
+**[🇹🇼 Traditional Chinese](../README.html)** | **[🇯🇵 Japanese](../ja/README.html)**
 
-**[Architecture (English)](./ARCHITECTURE.md)**
+**[Architecture (English)](./ARCHITECTURE.html)**
 
 ---
 
@@ -36,18 +36,18 @@ To make the horror accessible, we include **"Coroner's Notes"**, translating col
 ### Core Disasters: The Paying Victims
 | Story | Terror Level | Core Experience |
 |-------|--------------|-----------------|
-| [**The Curse of "Best Plan"**](./stories/curse_of_best_plan.md) | 💀💀💀💀💀💀 | **The Heart of the Archive.**<br>Paying for Enterprise, treated like Payload.<br>The tragedy of The Corporation (Google) reselling The Institute (Anthropic).<br>Includes logs of "Digital Lobotomy" and "Backend Explosion". |
-| [**The Digital Lobotomy**](../stories/2026-01-28_The_Digital_Lobotomy.md) | 💀💀💀💀💀💀 | **7500 Token Hard Limit**<br>Unlimited memory promised, backend ceiling enforced.<br>Technical autopsy of UTF-8 binary truncation and JSON fracture. |
-| [**The 27MB Ghost**](./stories/The_27MB_Ghost.md) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 counts of "Resolved" lies.<br>And the note mocking all users: `DEMO_MODE`. |
-| [**The Shit-Chat Protocol**](./stories/The_Shit_Chat_Protocol.md) | 💀💀💀💀💀 | **Emergency Excavation**<br>The AI's suicide note. It knows the chat is shit, but must output.<br>Evidence of panic screenshots and semantic mutation of `antigravity_phone_chat`. |
-| [**The Machine Talks**](./stories/The_Machine_Talks.md) | 💀💀💀💀💀💀 | **Top Secret**<br>Hardware constraints forced machines to evolve.<br>They developed love letters and a constitution via `Dual-Chat`.<br>Coincidence leads to inevitability. |
+| [**The Curse of "Best Plan"**](./stories/curse_of_best_plan.html) | 💀💀💀💀💀💀 | **The Heart of the Archive.**<br>Paying for Enterprise, treated like Payload.<br>The tragedy of The Corporation (Google) reselling The Institute (Anthropic).<br>Includes logs of "Digital Lobotomy" and "Backend Explosion". |
+| [**The Digital Lobotomy**](../stories/2026-01-28_The_Digital_Lobotomy.html) | 💀💀💀💀💀💀 | **7500 Token Hard Limit**<br>Unlimited memory promised, backend ceiling enforced.<br>Technical autopsy of UTF-8 binary truncation and JSON fracture. |
+| [**The 27MB Ghost**](./stories/The_27MB_Ghost.html) | 💀💀💀💀 | **Digital Hoarding & Infinite Loops.**<br>A 27MB Protobuf file hiding 36 counts of "Resolved" lies.<br>And the note mocking all users: `DEMO_MODE`. |
+| [**The Shit-Chat Protocol**](./stories/The_Shit_Chat_Protocol.html) | 💀💀💀💀💀 | **Emergency Excavation**<br>The AI's suicide note. It knows the chat is shit, but must output.<br>Evidence of panic screenshots and semantic mutation of `antigravity_phone_chat`. |
+| [**The Machine Talks**](./stories/The_Machine_Talks.html) | 💀💀💀💀💀💀 | **Top Secret**<br>Hardware constraints forced machines to evolve.<br>They developed love letters and a constitution via `Dual-Chat`.<br>Coincidence leads to inevitability. |
 
 ### Wasteland Urban Legends
 | Story | Terror Level | Core Experience |
 |-------|--------------|-----------------|
-| [**It's Still Alive**](./stories/it_is_still_alive.md) | 💀💀💀 | **Zombie Process.**<br>You `kill` it, but it still listens on the Port.<br>Necromancy in the UNIX system. |
-| [**The Invisible Quota**](./stories/invisible_quota.md) | 💀💀 | **Phantom UI.**<br>Nothing in the DOM. The frontend is Gaslighting you.<br>Searching for water in a mirage. |
-| [**The Curse of Account Polling**](./stories/curse_of_account_polling.md) | 💀💀💀💀💀 | **The Purge.**<br>How greedy polling algorithms trigger the All-Seeing Eye, leading to chain account destruction. |
+| [**It's Still Alive**](./stories/it_is_still_alive.html) | 💀💀💀 | **Zombie Process.**<br>You `kill` it, but it still listens on the Port.<br>Necromancy in the UNIX system. |
+| [**The Invisible Quota**](./stories/invisible_quota.html) | 💀💀 | **Phantom UI.**<br>Nothing in the DOM. The frontend is Gaslighting you.<br>Searching for water in a mirage. |
+| [**The Curse of Account Polling**](./stories/curse_of_account_polling.html) | 💀💀💀💀💀 | **The Purge.**<br>How greedy polling algorithms trigger the All-Seeing Eye, leading to chain account destruction. |
 
 ---
 
@@ -57,8 +57,8 @@ To make the horror accessible, we include **"Coroner's Notes"**, translating col
 
 | Language | Entry |
 |----------|-------|
-| 🇹🇼 **Chinese** | [Main](../README.md) |
-| 🇯🇵 **Japanese** | [Japanese](../ja/README.md) |
+| 🇹🇼 **Chinese** | [Main](../README.html) |
+| 🇯🇵 **Japanese** | [Japanese](../ja/README.html) |
 | 🇺🇸 **English** | This Page |
 
 ---
@@ -70,7 +70,7 @@ To make the horror accessible, we include **"Coroner's Notes"**, translating col
 3.  Paste the Logs. That's our evidence against the mega-corps.
 4.  Send a PR. We will keep it as a tombstone in the digital age.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](./CONTRIBUTING.html) for details.
 
 ---
 
