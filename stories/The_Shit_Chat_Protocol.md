@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Shit-Chat 協定 💩"
+---
 # Shit-Chat 協定 💩
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

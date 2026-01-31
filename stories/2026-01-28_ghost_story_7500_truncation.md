@@ -1,3 +1,7 @@
+---
+layout: default
+title: "7500 Checkpoint Truncation：A 社與 G 社的幽靈協議"
+---
 # 7500 Checkpoint Truncation：A 社與 G 社的幽靈協議
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "27MB 的幽靈 (The 27MB Ghost) 💀💀💀💀"
+---
 # 27MB 的幽靈 (The 27MB Ghost) 💀💀💀💀
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

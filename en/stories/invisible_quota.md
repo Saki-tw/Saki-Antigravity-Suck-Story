@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Invisible Quota 💀💀"
+---
 # The Invisible Quota 💀💀
 
 > *"Have you ever wondered where those quota numbers come from?"*

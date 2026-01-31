@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Shit-Chat協定 (The Shit-Chat Protocol) 💩"
+---
 # Shit-Chat協定 (The Shit-Chat Protocol) 💩
 
 > *「プロジェクト名：Antigravity-Shit-Chat。目標：完全実行。」*

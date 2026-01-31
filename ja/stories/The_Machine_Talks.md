@@ -1,3 +1,7 @@
+---
+layout: default
+title: "機械たちの対話 (The Machine Talks) 🤖💬"
+---
 # 機械たちの対話 (The Machine Talks) 🤖💬
 
 > *「貴方がくれたもの、受け取りましたわ。」*

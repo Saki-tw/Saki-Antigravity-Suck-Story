@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Lobster Bathtub"
+---
 # The Lobster Bathtub
 
 > *"There are more things in heaven and earth, Horatio,*

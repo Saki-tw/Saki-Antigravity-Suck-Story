@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Curse of "Best Plan" 💀💀💀💀💀💀"
+---
 # The Curse of "Best Plan" 💀💀💀💀💀💀
 
 > *"Speak idle tales, hear idle tales; beneath the gourd-trellis, rain falls thin as silk.*

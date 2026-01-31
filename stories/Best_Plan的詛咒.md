@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Best Plan 的詛咒 💀💀💀💀💀💀"
+---
 # Best Plan 的詛咒 💀💀💀💀💀💀
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

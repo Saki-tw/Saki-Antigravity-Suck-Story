@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Shit-Chat Protocol 💩"
+---
 # The Shit-Chat Protocol 💩
 
 > *"Project Name: Antigravity-Shit-Chat. Objective: Full Execution."*

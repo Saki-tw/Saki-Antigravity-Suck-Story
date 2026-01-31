@@ -1,3 +1,7 @@
+---
+layout: default
+title: "數位腦葉切除術：7500 Token 的事件視界 (The Digital Lobotomy)"
+---
 # 數位腦葉切除術：7500 Token 的事件視界 (The Digital Lobotomy)
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

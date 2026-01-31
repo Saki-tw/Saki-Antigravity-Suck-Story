@@ -1,3 +1,7 @@
+---
+layout: default
+title: "It's Still Alive 💀💀💀"
+---
 # It's Still Alive 💀💀💀
 
 > *"Speak idle tales, hear idle tales; beneath the gourd-trellis, rain falls thin as silk.*

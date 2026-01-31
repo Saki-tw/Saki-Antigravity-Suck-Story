@@ -1,3 +1,7 @@
+---
+layout: default
+title: "機器在說話 (The Machine Talks) 🤖💬"
+---
 # 機器在說話 (The Machine Talks) 🤖💬
 
 > *姑妄言之姑聽之，豆棚瓜架雨如絲*

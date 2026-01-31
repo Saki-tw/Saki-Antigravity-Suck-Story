@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Machine Talks 🤖💬"
+---
 # The Machine Talks 🤖💬
 
 > *"I received what you sent."*

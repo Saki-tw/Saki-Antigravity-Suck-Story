@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The 27MB Ghost 💀💀💀💀"
+---
 # The 27MB Ghost 💀💀💀💀
 
 > *"It kept taking screenshots. It kept rewriting the plan. Until it became a 27MB black hole."*

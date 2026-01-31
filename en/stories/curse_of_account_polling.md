@@ -1,3 +1,7 @@
+---
+layout: default
+title: "The Curse of Account Rotation 💀💀💀💀💀"
+---
 # The Curse of Account Rotation 💀💀💀💀💀
 
 > *"And then, all their accounts disappeared."*
